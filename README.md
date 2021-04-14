@@ -10,14 +10,7 @@ I am a cyber security student at Plymouth University.
 ## 🛠 I'm currently working on
 
 - WinkiMessenger - An encrypted messaging services designed to be hosted on your own server, and accessed through a web interface 
-
-
-
-## 👨‍🏫 Education
-- University of Plymouth— BSc (Hons) Computer and Information Security ,  2019 - present
-- South Devon College — BTEC Extended Diploma in computing (Graded D\*D\*D\*), 2016 - 2019
-
-    
+ 
 ## 📚 I'm currently Learning
 
 - Golang 
@@ -33,3 +26,10 @@ I am a cyber security student at Plymouth University.
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-27&langs_count=5&theme=react" />
 </div>
+
+
+## 👨‍🏫 Education
+- University of Plymouth— BSc (Hons) Computer and Information Security ,  2019 - present
+- South Devon College — BTEC Extended Diploma in computing (Graded D\*D\*D\*), 2016 - 2019
+
+
