@@ -1,4 +1,3 @@
-### Hi there 👋
 # 👋 Hi, I'm Jasper. 
 
 I am a cyber security student at Plymouth University. 
