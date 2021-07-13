@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jasper. 
 
-I am a cyber security student at Plymouth University.  
+I am a cyber security student at Plymouth University. 
 
 ## 🧐 Main areas of interest 
 - Linux 
@@ -9,7 +9,7 @@ I am a cyber security student at Plymouth University.
 
 ## 🛠 I'm currently working on
 
-- WinkiMessenger - An encrypted messaging services designed to be hosted on your own server, and accessed through a web interface 
+- Taking a small summer break :-) 
  
 ## 📚 I'm currently Learning
 
