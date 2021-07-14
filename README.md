@@ -5,7 +5,7 @@ I am a cyber security student at Plymouth University.
 ## 🧐 Main areas of interest 
 - Linux 
 - Open source 
-- Networking 
+- Security
 
 ## 🛠 I'm currently working on
 
