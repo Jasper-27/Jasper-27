@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jasper. 
 
-I am a cyber security student at Plymouth University. 
+I am a cyber security student at Plymouth University. Currently doing a year long work placement as a enterprise security assistant.  
 
 ## 🧐 Main areas of interest 
 - Linux 
@@ -9,14 +9,12 @@ I am a cyber security student at Plymouth University.
 
 ## 🛠 I'm currently working on
 
-- Taking a small summer break :-) 
+- Getting used to working a full time job 😅 
  
 ## 📚 I'm currently Learning
 
 - Golang 
-- WebApp development 
-- Machine learning in Python 
-
+- Enterprise 
 
 ## ⚡GitHub Stats
 <!-- Stats -->
