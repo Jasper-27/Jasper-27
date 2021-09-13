@@ -6,15 +6,18 @@ I am a cyber security student at Plymouth University. Currently doing a year lon
 - Linux 
 - Open source 
 - Security
-
+- 
+<!-- 
 ## 🛠 I'm currently working on
 
 - Getting used to working a full time job 😅 
- 
+  -->
+  
 ## 📚 I'm currently Learning
 
 - Golang 
-- Enterprise 
+- Azure
+- Log analytics with kql
 
 ## ⚡GitHub Stats
 <!-- Stats -->
