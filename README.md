@@ -17,7 +17,7 @@ I am a cyber security student at Plymouth University. Currently doing a year lon
 
 - Golang 
 - Azure
-- Log analytics with kql
+- Log analytics with KQL
 
 ## ⚡GitHub Stats
 <!-- Stats -->
