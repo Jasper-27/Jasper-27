@@ -6,7 +6,7 @@ I am a cyber security student at Plymouth University. Currently doing a year lon
 - Linux 
 - Open source 
 - Security
-- 
+
 <!-- 
 ## 🛠 I'm currently working on
 
