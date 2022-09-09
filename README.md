@@ -41,7 +41,9 @@ I am a third year Cyber Security student at Plymouth University. I sometimes tin
 
 ## 🧑‍💻 Work Experience 
 
-Enterprise Security Assistant at Plymouth University, 25/08/2021 - 25/08/2022. 
+Enterprise Security Assistant at Plymouth University, 25/08/2021 - 25/07/2022. 
+
+Enterprise Security Assistant at Plymouth University (Part time), 16/08/2022 - Present. 
 
 ## 👨‍🏫 Education
  University of Plymouth— BSc (Hons) Computer and Information Security ,  2019 - present
