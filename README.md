@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Jasper. 
 
-I am a third year Cyber Security student at Plymouth University. I sometimes tinker with some side projects which can be found on this Github account. 
+I am a third year Cyber Security student at Plymouth University. I also work part time for The University as an Enterprise Security Assistant. 
 
-## 🧐 Main areas of interest 
+## 🤔 Main areas of interest 
 - GNU/Linux 
-- Open source 
+- Open Source 
 - Cyber Security
 
 ## 📚 Tech I have experience with 
@@ -13,18 +13,19 @@ I am a third year Cyber Security student at Plymouth University. I sometimes tin
 - Python 
 - C#
 - Azure Sentinel
-- Linux
+- Linux (Fedora/Debian/Ubuntu/Arch/OpenSUSE) 
+- Tenable.sc/Tenable.io/Nessus 
+- Microsoft Defender for Endpoint
 
-
-<!-- 
-## 🛠 I'm currently working on
-
-- A full time job 😅
-- Passing the SC900
-- Messing around with some discord bots
  
-  
-## 📚 I'm currently Learning
+## 🛠 I'm currently working on
+- Completing some TryHackMe labs
+- My final year doing Cyber Security at UoP
+- Working out what to do as a project for said final year
+
+<!--
+ 
+ 📚 I'm currently Learning
 - Golang 
 - Azure
 - Log analytics with KQL -->
@@ -46,7 +47,8 @@ Enterprise Security Assistant at Plymouth University, 25/08/2021 - 25/07/2022.
 Enterprise Security Assistant at Plymouth University (Part time), 16/08/2022 - Present. 
 
 ## 👨‍🏫 Education
- University of Plymouth— BSc (Hons) Computer and Information Security ,  2019 - present
+
+University of Plymouth— BSc (Hons) Computer and Information Security ,  2019 - present
 
 South Devon College — BTEC Extended Diploma in computing (Graded D\*D\*D\*), 2016 - 2019
 
