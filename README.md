@@ -19,9 +19,8 @@ I am a third year Cyber Security student at Plymouth University. I also work par
 
  
 ## 🛠 I'm currently working on
+- [NiceC2](https://github.com/Jasper-27/NiceC2), a system for managing multiple remote machines from a central server.
 - Completing some TryHackMe labs
-- My final year doing Cyber Security at UoP
-- Working out what to do as a project for said final year
 
 <!--
  
