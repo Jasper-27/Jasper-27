@@ -36,7 +36,7 @@ I am a third year Cyber Security student at Plymouth University. I also work par
 <div align="middle">
     <img src="https://github-readme-stats.vercel.app/api?username=jasper-27&count_private=true&show_icons=true&theme=monokai" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-27&langs_count=10&theme=monokai" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-27&exclude_repo=iTeamProject&langs_count=10&theme=monokai" />
 </div>
 
 ## 🧑‍💻 Work Experience 
