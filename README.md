@@ -29,15 +29,15 @@ I am a third year Cyber Security student at Plymouth University. I also work par
 - Azure
 - Log analytics with KQL -->
 
-## ⚡GitHub Stats
+<!--## ⚡GitHub Stats --> 
 <!-- Stats -->
 <!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
 <!--Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<div align="middle">
+<!-- <div align="middle">
     <img src="https://github-readme-stats.vercel.app/api?username=jasper-27&count_private=true&show_icons=true&theme=monokai" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-27&exclude_repo=iTeamProject&langs_count=10&theme=monokai" />
-</div>
+</div> --> 
 
 ## 🧑‍💻 Work Experience 
 
