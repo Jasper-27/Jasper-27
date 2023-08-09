@@ -20,7 +20,7 @@ I am a third year Cyber Security student at Plymouth University. I also work par
 
  
 ## 🛠 I'm currently working on
-- Nothing at the moment unfortunatly. 
+- Nothing at the moment unfortunatly 🤷
 
 <!--
  
@@ -42,13 +42,14 @@ I am a third year Cyber Security student at Plymouth University. I also work par
 
 ## 🧑‍💻 Work Experience 
 
+Enterprise Security Assistant at Plymouth University (Part time), 16/08/2022 - 25/08/2023. 
+
 Enterprise Security Assistant at Plymouth University, 25/08/2021 - 25/07/2022. 
 
-Enterprise Security Assistant at Plymouth University (Part time), 16/08/2022 - Present. 
 
 ## 👨‍🏫 Education
 
-University of Plymouth— BSc (Hons) Computer and Information Security ,  2019 - present
+University of Plymouth — BSc (Hons) Computer and Information Security (2:1), 2019 - 2023
 
 South Devon College — BTEC Extended Diploma in computing (Graded D\*D\*D\*), 2016 - 2019
 
