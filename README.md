@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Jasper. 
 
-I am a third year Cyber Security student at Plymouth University. I also work part time for The University as an Enterprise Security Assistant. 
+I'm a Cyber Security graduate from the UK. I work as a security analyst these days, but some of my code from uni, and a few personal projects are on this GitHub. I'm not working on anything in particular at the moment, as I'm settling into a new area and new job.
+
 
 ## 🤔 Main areas of interest 
 - GNU/Linux 
