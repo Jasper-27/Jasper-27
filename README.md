@@ -16,11 +16,11 @@ I am a third year Cyber Security student at Plymouth University. I also work par
 - Linux (Fedora/Debian/Ubuntu/Arch/OpenSUSE) 
 - Tenable.sc/Tenable.io/Nessus 
 - Microsoft Defender for Endpoint
+- KQL 
 
  
 ## 🛠 I'm currently working on
-- [NiceC2](https://github.com/Jasper-27/NiceC2), a system for managing multiple remote machines from a central server.
-- Completing some TryHackMe labs
+- Nothing at the moment unfortunatly. 
 
 <!--
  
@@ -29,15 +29,15 @@ I am a third year Cyber Security student at Plymouth University. I also work par
 - Azure
 - Log analytics with KQL -->
 
-<!--## ⚡GitHub Stats --> 
+## ⚡GitHub Stats
 <!-- Stats -->
 <!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
-<!--Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<!-- <div align="middle">
-    <img src="https://github-readme-stats.vercel.app/api?username=jasper-27&count_private=true&show_icons=true&theme=monokai" />
+<!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+ <div align="middle">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=jasper-27&count_private=true&show_icons=true&theme=monokai" /> -->
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-27&exclude_repo=iTeamProject&langs_count=10&theme=monokai" />
-</div> --> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-27&exclude_repo=iTeamProject&hide=css&langs_count=5&theme=monokai" />
+</div> 
 
 ## 🧑‍💻 Work Experience 
 
