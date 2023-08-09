@@ -22,6 +22,11 @@ I am a third year Cyber Security student at Plymouth University. I also work par
 ## 🛠 I'm currently working on
 - Nothing at the moment unfortunatly 🤷
 
+## 🔭 Where to find me
+- Twitter: [@Cyber_Jasper](https://twitter.com/Cyber_Jasper)
+- YouTube: [@Jasper-27](https://www.youtube.com/@jasper-27)
+- LinkedIn: [Jasper Cox](https://www.linkedin.com/in/jasper-cox-258b42154/) 
+
 <!--
  
  📚 I'm currently Learning
