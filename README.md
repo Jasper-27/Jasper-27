@@ -48,6 +48,8 @@ I'm a Cyber Security graduate from the UK. I work as a security analyst these da
 
 ## 🧑‍💻 Work Experience 
 
+Cloud SOC Analyst at Microsoft, 18/09/2023 - present
+
 Enterprise Security Assistant at Plymouth University (Part time), 16/08/2022 - 25/08/2023. 
 
 Enterprise Security Assistant at Plymouth University, 25/08/2021 - 25/07/2022. 
